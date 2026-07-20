@@ -23,4 +23,4 @@ termux美化教程
 7.yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
 
 
-可能有白板有误，如有误，请下载README.md 查看
+
