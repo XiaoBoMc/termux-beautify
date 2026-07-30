@@ -24,3 +24,6 @@ termux美化教程
 
 
 
+至于termux，安装地址在这里：https://pan.quark.cn/s/e14865f858a1#/list/share
+
+
