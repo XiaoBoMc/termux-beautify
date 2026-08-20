@@ -3,6 +3,7 @@
 > 让你的 Termux 终端从“黑白命令行”秒变“高颜值生产力工具”
 
 本项目基于 [Sugars0612/dotfiles](https://github.com/Sugars0612/dotfiles) 配置，自动安装 Zsh、Oh My Zsh、Powerlevel10k 主题及常用插件，实现终端美化。
+<img width="2560" height="1600" alt="1000278118" src="https://github.com/user-attachments/assets/64ee8025-634d-4eb9-958b-5b335f556392" />
 
 ---
 
@@ -42,3 +43,5 @@ chmod +x ./bootstarp-termux.sh ./install-termux.sh
 
 # 7. 执行安装（自动确认所有提示）
 yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
+
+#如安装失败，请再次运行yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh<img width="2560" height="1600" alt="1000278118" src="https://github.com/user-attachments/assets/7fd7a39f-5ea6-4911-87a7-b93f68142be4" />
