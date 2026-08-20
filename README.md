@@ -15,8 +15,7 @@
 > Termux 安装建议：  
 > - 官方推荐从 F-Droid 下载（兼容性最好）：[点此前往](https://f-droid.org/packages/com.termux/)  
 > - 若无法访问 F-Droid，可使用我备好的安装包：📦 [夸克网盘下载](https://pan.quark.cn/s/e14865f858a1#/list/share) （请选择 `arm64-v8a` 版本）
-> - 也可以用我给的release，那个1个标签的那里
-
+> - 也可以用我给的release，[直接前往](https://github.com/XiaoBoMc/termux-beautify/releases/tag/termux%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
 ---
 
 ## 一键安装（所有命令集中在此）
