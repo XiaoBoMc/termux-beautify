@@ -15,6 +15,7 @@
 > Termux 安装建议：  
 > - 官方推荐从 F-Droid 下载（兼容性最好）：[点此前往](https://f-droid.org/packages/com.termux/)  
 > - 若无法访问 F-Droid，可使用我备好的安装包：📦 [夸克网盘下载](https://pan.quark.cn/s/e14865f858a1#/list/share) （请选择 `arm64-v8a` 版本）
+> - 也可以用我给的release，那个1个标签的那里
 
 ---
 
@@ -44,4 +45,4 @@ chmod +x ./bootstarp-termux.sh ./install-termux.sh
 # 7. 执行安装（自动确认所有提示）
 yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
 
-#如安装失败，请再次运行yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh<img width="2560" height="1600" alt="1000278118" src="https://github.com/user-attachments/assets/7fd7a39f-5ea6-4911-87a7-b93f68142be4" />
+#如安装失败，请再次运行yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
