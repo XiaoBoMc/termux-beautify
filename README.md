@@ -47,7 +47,11 @@ yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
 #如安装失败，请再次运行yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
 ```
 安装好后，你会发现卡在一个页面不动了，这是新版本的一个bug，
+
 不要犹豫，直接退出后台，否则后果自负（实际上就是卡死在那个
+
 页面有概率让手机卡死，所以说最好快点退出，如果卡死了，
+
 请点击下拉框菜单中的WIFI长按，就可以跳转到设置，然后再把termux关闭就行了）
+
 然后重启termux
