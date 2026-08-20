@@ -18,7 +18,7 @@
 > - 官方推荐从 F-Droid 下载（兼容性最好）：[点此前往](https://f-droid.org/packages/com.termux/)  
 > - 若无法访问 F-Droid，可使用我备好的安装包：📦 [夸克网盘下载](https://pan.quark.cn/s/e14865f858a1#/list/share) （请选择 `arm64-v8a` 版本）
 > - 也可以用我给的release，[直接前往](https://github.com/XiaoBoMc/termux-beautify/releases/tag/termux%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
-> - zerotermux我最喜欢的魔改版，功能非常多，而且可以规避卡死的问题，[官方官网下载](https://get.zerotermux.dev/)
+> - zerotermux我最喜欢的魔改版，功能非常多，而且可以规避卡死的问题，[官方官网下载](https://get.zerotermux.dev/)，缺点是没法改背景界面QwQ
 ---
 
 ## 一键安装（所有命令集中在此）
@@ -55,5 +55,5 @@ yes Y | ./bootstarp-termux.sh && yes Y | ./install-termux.sh
 > **解决方法**：  
 > - 如果卡死，下拉通知栏，**长按「WiFi」图标**跳转到系统设置，然后从设置里，然后你会发现终于可以回到桌面了，然后再把termux关掉重新打开，就可以去使用了
 > - 或者直接多任务划掉 Termux（如果系统响应）。  
-> 
+> - zerotermux不会有这个问题
 > 重启 Termux 后，美化效果就已生效，正常使用即可。
